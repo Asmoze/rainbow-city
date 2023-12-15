@@ -7,7 +7,7 @@
 
 ## Présentation
 Site officiel de la ville de Rainbow City.
-Que vous soyez résident, touriste, entre amis ou en famille, venez découvrir tous les endroits que recèle notre charmante ville aux briques multicolores !
+Que vous soyez résident, touriste, entre amis ou en famille, venez découvrir tous les endroits que recèle notre charmante ville aux briques multicolores !  
 Du cinéma au jardin botanique, en passant par notre parc d'attraction RainbowLand, laissez-vous emporter !
 Si vous avez l'esprit curieux, vous pourrez même tester notre escape game grandeur nature, et aider la ville à retrouver son trésor national : **la Brique d'Or**.
 
