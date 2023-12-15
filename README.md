@@ -1,5 +1,5 @@
 > [!WARNING]
-> ## ***:warning: Une nouvelle version du site est actuellement en préparation :warning:***
+> ## ***⚠️ Une nouvelle version du site est actuellement en préparation ⚠️***
 
 # Rainbow City
 
