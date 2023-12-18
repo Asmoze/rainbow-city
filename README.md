@@ -1,5 +1,5 @@
 > [!WARNING]
-> ## ***⚠️ Une nouvelle version du site est actuellement en préparation ⚠️***
+> ## ***⚠️ Une nouvelle version du site est actuellement [en préparation](https://github.com/Morgan-B3/Rainbow-City2) ⚠️***
 
 # Rainbow City 🌈
 
