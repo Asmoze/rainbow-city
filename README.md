@@ -1,7 +1,7 @@
 > [!WARNING]
 > ## ***⚠️ Une nouvelle version du site est actuellement [en préparation](https://github.com/Morgan-B3/Rainbow-City2) ⚠️***
 
-# Rainbow City 🌈
+# [Rainbow City](https://morgan-b3.github.io/rainbow-city/index.html) 🌈
 
 #### Partez à la découverte de Rainbow City, **une ville entièrement en Lego**, et qui sait, peut-être souhaiterez-vous y installer votre propre brique? 🧱 🏡  
 
